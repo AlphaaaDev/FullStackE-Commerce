@@ -1,4 +1,4 @@
-# FullStackE-Commerce
+# Full-Stack E-Commerce
 
 E' possibile trovare il progetto completo alle seguenti repository:
 - [GoGonicEcommerceApi](https://github.com/AlphaaaDev/GoGonicEcommerceApi)
